@@ -9,8 +9,7 @@ Antes de começar leia o Readme completo, para entender como funciona e como ins
 O Projeto foi construido para a pratica de TypeScript e o desenvolvimento de uma API do 0, com auxilio da equipe da Trybe, para tirar duvidas e guiar o projeto.
 
 ### 🔧 Instalação
-
-Basta fazer o clone do projeto, e rodar o comando:
+Primeiro, para que as conexões funcionem corretamente com os arquivos pré configurados. Altere o arquvivo .env.edit para .env. em seguida basta fazer o clone do projeto, e rodar o comando:
 
 npm run compose:up
 
@@ -22,8 +21,7 @@ recomendo ultilizar o Thunder Client e importar nele o arquivo endPointsTest.jso
 
 Mencione as ferramentas que você usou para criar seu projeto
 
-* [ThunderClient](https://www.thunderclient.com/) - O framework web usado
-
+* [ThunderClient](https://www.thunderclient.com/) - extensão ultilizada.
 ## 🖇️ Colaborando
 
 Dockerfile e Docker-compose construidos com ajuda de Welton Thomaz
